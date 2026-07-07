@@ -11,10 +11,6 @@ sede usando listas, diccionarios, funciones, ciclos y condicionales.
 
 
 from sedes import sedes
-MiProyecto/
-    clase07_analisis_emprendimientos.py
-    sedes.py
-
 
 def calcular_total(lista_ventas):
     """Recibo una lista, la sumo y retorno el total."""
